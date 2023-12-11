@@ -6,7 +6,7 @@
 .header {
   min-height: 100vh;
   width: 100%;
-  background-image: url(images/come.jpg);
+  background-image: url(https://deih43ym53wif.cloudfront.net/cityscape-things-to-do-in-kigali-rwanda_44e57bd0bf.jpeg);
   opacity: 0.9;
   background-position: center;
   background-size: cover;
@@ -170,7 +170,8 @@ h2 {
 .member-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+
+  margin-left: 600px;
 }
 
 .member-card {
